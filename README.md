@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manali Patel</h1>
 <h3 align="center">A passionate Full Stack Developer having an experience of building Web application with JavaScript/ReactJS/NodeJS and some other cool libraries and frameworks.</h3>
-<img align="right" alt="Women in tech" width="400" src="./public/myphoto.png">
+<img align="right" alt="Women in tech" width="300" height="400" src="./public/myphoto.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manali1321&label=Profile%20views&color=0e75b6&style=flat" alt="manali1321" /> </p>
 
