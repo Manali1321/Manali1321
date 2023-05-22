@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manali1321&label=Profile%20views&color=0e75b6&style=flat" alt="manali1321" /> </p>
 
 
-- 🔭 I’m currently working on a full stack application [Hobby Hive]
+- 🔭 I’m currently working on a full stack application HobbyHive.[(https://github.com/Manali1321/HobbyHive)]
 
-- 👨‍💻 All of my projects are available at [https://manalipatel.vercel.app/project](https://manalipatel.vercel.app/project)
+- 👨‍💻 All of my projects are available at [https://manalipatel.vercel.app/project][(https://manalipatel.vercel.app/project)](http://codemanali.ca/)
 
 - 💬 Ask me about **Web fundamentals with HTML/CSS/Javascript**
 
