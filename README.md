@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a full stack application HobbyHive.[(https://github.com/Manali1321/HobbyHive)]
 
-- 👨‍💻 All of my projects are available at [https://manalipatel.vercel.app/project][(https://manalipatel.vercel.app/project)](http://codemanali.ca/)
+- 👨‍💻 All of my projects are available at[(http://codemanali.ca/)]
 
 - 💬 Ask me about **Web fundamentals with HTML/CSS/Javascript**
 
